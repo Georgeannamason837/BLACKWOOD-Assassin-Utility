@@ -1,0 +1,14 @@
+// Build: 2c02fc884d2bfb1b4599db82473fcedc
+package main
+
+import "fmt"
+
+func clamp(value, minimum, maximum int) int {
+	if value < minimum { return minimum }
+	if value > maximum { return maximum }
+	return value
+}
+
+func main() {
+	fmt.Println(clamp(12, 0, 10))
+}
